@@ -1,0 +1,517 @@
+,Hotel name,Min price,Stars,Chech in/out,Comments, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,     TV,     Ավտոկայանատեղի ,     Wi-Fi ինտերնետ,     Ֆեն,     Կոնֆերանս Դահլիճ,     Օդորակիչ,     Նախաճաշ,     Սեյֆ,     Մինիբար,     Զգեստապահարան,     Հեռախոս,     Սեղան/Գրասեղան,    Լողասենյակ , Laundry, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer, Playground, Fitness, Table/Desk, Billiards, Refrigerator, SPA, Kitchen, Grill/BBQ, Garden, Table tennis, Cottages, Kid's room, FB meal, HB meal, Microwave, Pets allowed, Tennis
+0,Europe Hotel Artsakh,25000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,R & R Ինն Հյուրանոց,14000,3,"Ժամանում: 14:00
+Մեկնում: 12:00",0,,,,,,,,,,,     TV,     Ավտոկայանատեղի ,     Wi-Fi ինտերնետ,     Ֆեն,     Կոնֆերանս Դահլիճ,     Օդորակիչ,     Նախաճաշ,     Սեյֆ,     Մինիբար,     Զգեստապահարան,     Հեռախոս,     Սեղան/Գրասեղան,    Լողասենյակ ,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Ibis Yerevan Center Hotel,,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+3,Aghababyan's Hotel,28900,5,"Check in: 14:00
+Check out: 12:00",3, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning,, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar,, Phone, Bathroom, Dryer, Playground, Fitness, Table/Desk, Billiards,,,,,,,,,,,,,
+4,Yerevan Deluxe Hotel,15000,3,"Check in: 13:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,, Room service,,,, Phone,, Dryer, Playground,, Table/Desk,, Refrigerator,,,,,,,,,,,,
+5,Comfort Hotel,23000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+6,14-th Floor Hotel,39600,0,"Check in: 15:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,, Jacuzzi, Restaurant,,,,,,,,,,,,,,, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,,,,,,,,,,,,,,
+7,Good Hotel Yerevan,14500,1,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,, Air Conditioning,,,,,,,,,,,,,,,,,,,, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer,,,,, Refrigerator,,,,,,,,,,,,
+8,Nacho Hotel Yerevan,45000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar,,,,,,,,,,,,,,,,,,,,,
+9,Ani Central Inn Hotel,25000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool,, Wi-Fi,, Air Conditioning,,,,,,,,,,,,,,,,,, Laundry, Room service,,, Wardrobe, Phone, Bathroom,,,, Table/Desk,,, SPA,,,,,,,,,,,
+10,Capital Hotel,13000,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool,, Wi-Fi,,,, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,,,,,,,,,,,,,,,,,,,,
+11,Tigran Mets Hotel,19000,3,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,,,, Cafe,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,,, Table/Desk,,,,,,,,,,,,,,
+12,Elysium Gallery Hotel,13000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service, Safe,, Wardrobe, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+13,Metropol Hotel,32500,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,,,,,, Fitness,,,,,,,,,,,,,,,
+14,Armenia Marriott Hotel,,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service, Safe, Minibar,, Phone,, Dryer,, Fitness, Table/Desk,,,, Kitchen,,,,,,,,,,
+15,Konyak hotel,27900,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service, Safe, Minibar,, Phone, Bathroom, Dryer,,,,,, SPA,, Grill/BBQ,,,,,,,,,
+16,Hotel National Armenia,59000,5,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking,,,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service, Safe,,, Phone,,,, Fitness,,,,,,,,,,,,,,,
+17,Bomo Nairi Hotel,23000,4,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking,, Conference Room,,,,,,,,,,,,,,,,,,, Laundry,,,,,,, Dryer,,,,,,,,,,,,,,,,,
+18,Polo Hotel,14500,0,"Check in: 12:00
+Check out: 12:00",0,,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Garden,,,,,,,,
+19,Rest House Dilijan,30000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom,,,, Table/Desk,,,, Kitchen, Grill/BBQ, Garden,,,,,,,,
+20,Antaratun Aghveran,30000,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Kitchen,, Garden,,,,,,,,
+21,Aurora Resort Tsaghkadzor,44500,0,"Check in: 14:00
+Check out: 12:00",0,, Pool,, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,,, Table tennis,,,,,,,
+22,Tsaghkadzor Inn Hotel,29000,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool,, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,, Minibar,, Phone, Bathroom, Dryer,,,, Billiards,,, Kitchen, Grill/BBQ,, Table tennis,,,,,,,
+23,V&V Hotel,100000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,,,, Bathroom, Dryer, Playground,, Table/Desk,,,,,, Garden,, Cottages,,,,,,
+24,Alaska resort,23000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer, Playground,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden,, Cottages, Kid's room, FB meal, HB meal,,,
+25,Woodland Cottages,35000,0,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,, Wardrobe, Phone,, Dryer,,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden,, Cottages, Kid's room,,,,,
+26,Hotel.am,10000,0,"Check in: 00:00
+Check out: 00:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Vila Plaza Guest House,180000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,, Room service,,, Wardrobe,, Bathroom, Dryer,,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden,,,,,,,,
+28,Hover Boutique Hotel,25000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,,,,,, Garden,, Cottages, Kid's room,,,,,
+29,Kochar Garden Hotel Yerevan,18000,4,"Check in: 14:00
+Check out: 12:00",0,, Pool,, Wi-Fi,,, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,,,, Safe,,, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,, Grill/BBQ, Garden,,,,,,,,
+30,Tsaghkadzori Tun,80000,0,"Check in: 14:00
+Check out: 12:00",1, TV,, Parking,,,,,,,,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom,,,, Table/Desk,,,, Kitchen,, Garden,,,,,,,,
+31,Garni HinYard,0,0,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi,,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,, Wardrobe,,, Dryer,,, Table/Desk,,,,, Grill/BBQ, Garden,,,, FB meal, HB meal,,,
+32,Kirch Hotel,20400,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,,,,,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,, Grill/BBQ,,,,, FB meal, HB meal,,,
+33,California Boutique Hotel,13000,0,"Check in: 13:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,, Minibar, Wardrobe,, Bathroom, Dryer, Playground,,,, Refrigerator,,,,,,,, FB meal, HB meal, Microwave,,
+34,Zangezur Hotel,8000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,, Grill/BBQ,,,,, FB meal, HB meal,, Pets allowed,
+35,Edem Hotel,20000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom, Dryer, Playground,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden, Table tennis,,, FB meal, HB meal,,,
+36,Har-Mar Hotel,8000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,, Room service,,,,, Bathroom,,,, Table/Desk,, Refrigerator,, Kitchen,,,,,,,,,,
+37,Cozy House Dilijan,25000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,, Safe,,,, Bathroom, Dryer, Playground,, Table/Desk,, Refrigerator,,,, Garden,,,,,,,,
+38,Menua Resort,12000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,, Bathroom, Dryer, Playground,, Table/Desk,, Refrigerator,,, Grill/BBQ, Garden, Table tennis,,, FB meal, HB meal,, Pets allowed,
+39,Areguni Guest House,12000,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,Vale Hotel,10000,0,"Check in: 12:00
+Check out: 14:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,, Grill/BBQ,,,,, FB meal, HB meal,,,
+41,Hotel Felisa,16000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,,, Room service,, Minibar, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,,,,,,,,,,,
+42,Getap Rest House in Bjni,20000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,, Room service,,, Wardrobe,, Bathroom, Dryer, Playground,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden,,,, FB meal, HB meal,, Pets allowed,
+43,Hotel Fenix Complex,15000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,, Minibar, Wardrobe, Phone, Bathroom, Dryer,, Fitness, Table/Desk, Billiards, Refrigerator,,, Grill/BBQ,,,,,, HB meal,,,
+44,Vorotnavan Rest Home,5000,0,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,, Wardrobe,,, Dryer, Playground,,,,,, Kitchen, Grill/BBQ, Garden,,,,,,, Pets allowed,
+45,Flora Hotel,5000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,, Wardrobe,, Bathroom, Dryer,,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden,,,, FB meal, HB meal,,,
+46,Grand House,15000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service,,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk, Billiards, Refrigerator,,, Grill/BBQ, Garden,,,,,,,,
+47,Vanatur Hotel,20000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,,, Room service,, Minibar, Wardrobe, Phone, Bathroom, Dryer,, Fitness, Table/Desk,, Refrigerator,,, Grill/BBQ,,,, Kid's room,,,,,
+48,Asour Hotel,15000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service,, Minibar, Wardrobe,, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,, Grill/BBQ, Garden,,,,,,, Pets allowed,
+49,Rubin Hotel,12000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,, Grill/BBQ, Garden,, Cottages,, FB meal,,,,
+50,Getahovit Resort,25000,0,"Check in: 13:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe,, Bathroom, Dryer, Playground,, Table/Desk,, Refrigerator,,, Grill/BBQ, Garden,, Cottages,,,,, Pets allowed,
+51,Lider Complex,9000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe,, Wardrobe, Phone, Bathroom, Dryer, Playground,, Table/Desk,, Refrigerator,,, Grill/BBQ, Garden,,,,,,, Pets allowed,
+52,Khoreayi Dzor,20000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe,, Bathroom, Dryer,,, Table/Desk,,,,, Grill/BBQ, Garden,,,,,,,,
+53,Artsvik Hotel,18000,4,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden, Table tennis, Cottages,, FB meal, HB meal,,,
+54,S & M hotel,8000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,,,,,,,,,,,,,,
+55,Arevi Hotel,20000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, FB meal,,,,
+56,Harsnadzor Eco Resort,10000,2,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,Olympic Hotel,17000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,, Jacuzzi, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe,, Bathroom, Dryer, Playground,, Table/Desk, Billiards, Refrigerator,,,,, Table tennis,,,,,,,
+58,Russo Hotel,12000,5,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service,, Minibar, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,,,,,,,,,,,,,,
+59,SH Resort Hotel,10000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe, Phone, Bathroom,, Playground,, Table/Desk, Billiards, Refrigerator,,, Grill/BBQ, Garden, Table tennis,,, FB meal, HB meal,,,
+60,Avan Plaza Hotel,25000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,, Minibar,,,,,,,,,,,,,,,,,,,,,
+61,Belveder Eco Resort,17000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,Arzni Polyclinic - Sanatorium,27000,0,"Check in: 11:00
+Check out: 11:00",0, TV, Pool,, Wi-Fi, Conference Room,,,,, Restaurant,,,,,,,,,,,,,,,,,,,,,,, Fitness,, Billiards,, SPA,,, Garden, Table tennis,,,,,,,
+63,Grand Resort Jermuk,25000,5,"Check in: 15:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,,, Room service, Safe,, Wardrobe, Phone, Bathroom,,, Fitness,, Billiards, Refrigerator, SPA,,, Garden,,, Kid's room,,,,,
+64,Lilit Resort,24000,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room,,, Cafe,, Restaurant,,,,,,,,,,,,,,,,,,,,,, Playground,,, Billiards, Refrigerator,,, Grill/BBQ, Garden, Table tennis,,, FB meal,,,,
+65,Sion Resort,32000,0,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi, Conference Room,,,,, Restaurant,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,,, Table/Desk, Billiards,,,,,, Table tennis,,, FB meal,,,,
+66,Nairi Spa Resorts,28000,4,"Check in: 14:00
+Check out: 12:00",5, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast,, Jacuzzi, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer, Playground, Fitness, Table/Desk, Billiards,, SPA,, Grill/BBQ, Garden, Table tennis, Cottages,,, HB meal,,,
+67,Apricot Hotels and Resorts,34000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,,,, Jacuzzi, Restaurant,,,,,,,,,,,,,,,,, Minibar, Wardrobe, Phone, Bathroom, Dryer, Playground,, Table/Desk, Billiards, Refrigerator,, Kitchen,,, Table tennis,,, FB meal,,,, Tennis
+68,ZCMC Hotel,14000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service,,,,, Bathroom,,,,,,,,,,,,,,,,,,
+69,Iris Guest House,10000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast, Cafe,,,,,,,,,,,,,,,,, Room service,,, Wardrobe,, Bathroom, Dryer,,,,,,,, Grill/BBQ, Garden, Table tennis,,, FB meal,,,,
+70,Takht-House Guest house,60000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,,, Safe,,,,,, Playground,,,,,, Kitchen, Grill/BBQ, Garden,,, Kid's room,,,,,
+71,Magnit Guesthouse,5000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,,,,, Dryer, Playground,,,,,, Kitchen, Grill/BBQ,,,,,,,,,
+72,Nur Hotel & Resort,20000,3,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi, Conference Room,,,,,,,,,,,,,,,,,,,,,,,,, Bathroom,, Playground,, Table/Desk, Billiards,,,,,, Table tennis,,,, HB meal,,,
+73,Harsnaqar Hotel,25000,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,,,,,, Dryer, Playground,,, Billiards,,,,,,,,,,,,, Tennis
+74,Argishti Hotel,10000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,, Minibar, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,, Grill/BBQ,,,,,,,,,
+75,Gayane Hotel,12000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe, Phone, Bathroom,, Playground, Fitness, Table/Desk, Billiards, Refrigerator,,, Grill/BBQ, Garden,,,,,,,,
+76,Tsaghkahovit Hotel,10000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,,,,, Restaurant,,,,,,,,,,,,,, Laundry,,,,,,,, Playground,,, Billiards,,,,,,,, Kid's room,,,,,
+77,Saya Hotel,15000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast, Cafe, Jacuzzi,,,,,,,,,,,,,,,,,,,,,,, Playground,,, Billiards,,,,, Garden, Table tennis,, Kid's room,,,,,
+78,Ani Resort,40000,0,"Check in: 14:00
+Check out: 12:00",2, TV, Pool, Parking, Wi-Fi, Conference Room,,,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe,,, Phone, Bathroom,, Playground, Fitness,, Billiards,,,, Grill/BBQ,, Table tennis,,, FB meal,,,,
+79,Alexandrapol Hotel Palace,25000,0,"Check in: 14:00
+Check out: 12:00",1, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service, Safe,,, Phone,,,,,,,,,,,,,,,,,,,
+80,Armenia Wellness & SPA Hotel,25000,5,"Check in: 13:00
+Check out: 12:00",1,, Pool,,, Conference Room,,,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,, Bathroom,,, Fitness,, Billiards,,,,,, Table tennis,,, FB meal,,,,
+81,Kirovakan Hotel,7000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking,, Conference Room,,,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,,,, Playground,, Table/Desk, Billiards,,,,, Garden, Table tennis,,,,,,,
+82,Lori Hotel,18000,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,, Cafe,,,,,,,,,,,,,,,,,,,,,, Bathroom,, Playground,,,,,,,, Garden,,,, FB meal,,,,
+83,Menua Hotel,8000,3,"Check in: 14:00
+Check out: 12:00",0,,,,,,, Breakfast, Cafe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, FB meal, HB meal,,,
+84,Araks Hotel,15500,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking,, Conference Room,, Breakfast,,,,,,,,,,,,,,,,,, Room service,,,,,,,,,,,,,,,,,,,,,,,
+85,Splendor Resort,25000,0,"Check in: 14:00
+Check out: 12:00",1, TV,, Parking, Wi-Fi,,,,,, Restaurant,,,,,,,,,,,,,,, Room service,,,, Phone,,, Playground,,, Billiards,,, Kitchen, Grill/BBQ,, Table tennis, Cottages, Kid's room,, HB meal,,,
+86,Central Hotel,25000,3,"Check in: 14:00
+Check out: 12:00",1,,,,,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,,,,,, FB meal,,,,
+87,Aghveran Ararat Resort,25000,4,"Check in: 15:00
+Check out: 12:00",6, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,,,, Bathroom,, Playground, Fitness,, Billiards,,,,,, Table tennis,,,,,,,
+88,Sochut Resort,32000,3,"Check in: 14:00
+Check out: 11:00",1,,, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry,,,,,,,, Playground,, Table/Desk, Billiards,,,,, Garden, Table tennis,, Kid's room, FB meal,,,,
+89,Armenia Hotel,29000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,,,,,,,,,,,,,,,, Laundry, Room service,,,,,,,, Fitness,,,,,,,,,,,,,,,
+90,Casanova Guesthouse,22000,1,"Check in: 10:00
+Check out: 10:00",0, TV,, Parking, Wi-Fi,,,,,, Restaurant,,,,,,,,,,,,,,, Room service,,,, Phone, Bathroom,, Playground, Fitness,,, Refrigerator,,,, Garden, Table tennis,,,,,,,
+91,National Artsakh Hotel,20000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe,,,,,,,,,, Refrigerator, SPA,,,,,,,,,,,
+92,“Vanadzor” Guesthouse,12000,0,"Check in: 12:00
+Check out: 02:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,L and L cottages,25000,0,"Check in: 12:00
+Check out: 14:00",0, TV, Pool, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,, Wardrobe, Phone, Bathroom, Dryer, Playground,,,, Refrigerator,, Kitchen, Grill/BBQ, Garden,, Cottages,,,,,,
+94,Ani Plaza Hotel,35000,4,"Check in: 14:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,,, Bathroom,,, Fitness, Table/Desk,,, SPA,,,,,,,,,,,
+95,Aleppo Hotel,14500,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool,, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service, Safe,, Wardrobe,, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,,,,,,,,,, Pets allowed,
+96,Apricot Hotel Yerevan,35000,0,"Check in: 14:00
+Check out: 12:00",1,,,, Wi-Fi,,,,,, Restaurant,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom,,,,,,,,,,,,,,,,,,
+97,GM Rest House,40000,1,"Check in: 12:00
+Check out: 14:00",0,,, Parking, Wi-Fi,, Air Conditioning,,,,,,,,,,,,,,,,,,,,,, Wardrobe,,, Dryer,,,,, Refrigerator,, Kitchen,,,,,,,,,,
+98,Goog Hotel,13500,0,"Check in: 14:00
+Check out: 12:00",0, TV,,,,,, Breakfast,,,,,,,,,,,,,,,,,,, Safe,,, Phone, Bathroom, Dryer,,,,, Refrigerator,,,,,,,,,,,,
+99,Ararat Hotel,31000,4,"Check in: 15:00
+Check out: 12:00",0, TV, Pool,,, Conference Room, Air Conditioning,,,, Restaurant,,,,,,,,,,,,,,,,,,,,,,, Fitness,,,,,,, Garden,,,,,,,,
+100,Royal Plaza Hotel,30000,4,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,,,,,,,,,,,,,,,,,,, Laundry,,,, Wardrobe, Phone, Bathroom,,,, Table/Desk,, Refrigerator, SPA, Kitchen,,,,,,,,,,
+101,Nova Hotel,12000,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,Aviatrans Hotel,29000,4,"Check in: 13:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe,,,,,,,,,,,,,,,,,,,,,,
+103,Jermuk 1 (Moscow) Health Resort,18000,0,"Check in: 00:00
+Check out: 00:00",0, TV,,, Wi-Fi, Conference Room,, Breakfast,,,,,,,,,,,,,,,,,, Room service,,, Wardrobe, Phone, Bathroom, Dryer, Playground, Fitness, Table/Desk,, Refrigerator, SPA, Kitchen,,,,,, FB meal,,,,
+104,NR Rest House hotel,28000,0,"Check in: 14:00
+Check out: 12:00",0,, Pool,,,,,,,,,,,,,,,,,,,,,,,,,,,, Bathroom,, Playground,, Table/Desk, Billiards,,,,, Garden,,,,,,,, Tennis
+105,Menua Hotel Yerevan,10000,5,"Check in: 14:00
+Check out: 12:00",0,,,,,, Air Conditioning,,,,,,,,,,,,,,,,,,,,, Minibar,,,,,,,,,,,,,,,,,,,,,
+106,Azhdahak guest house,4500,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,DiliJazz Hotel,30000,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,Everest Rest House,55000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe,, Bathroom, Dryer,,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ,,, Cottages,, FB meal, HB meal, Microwave,,
+109,Lilia Guest House,7000,0,"Check in: 13:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,, Room service,,, Wardrobe,,, Dryer,,,,,,, Kitchen,,,,,, FB meal, HB meal,,,
+110,Ed-Em Hotel,12000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom, Dryer,,, Table/Desk,,,,,,,,,, FB meal, HB meal,,,
+111,Sunk Hotel,10000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom,,,, Table/Desk,,,,,, Garden,,,,,,,,
+112,Popock Tsaghkadzor Hotel,10000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry,,,, Wardrobe,, Bathroom, Dryer, Playground,, Table/Desk,,,, Kitchen, Grill/BBQ, Garden, Table tennis,, Kid's room, FB meal,,,,
+113,Resort MJA,15000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,,, Wardrobe,, Bathroom, Dryer,,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden,,,,,,,,
+114,Sofya Hotel,10000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,,,, Bathroom, Dryer,,,,,,,,,,,,,,,,,
+115,Popock Dilijan 2 Hotel,12500,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom,, Playground,,,,,, Kitchen, Grill/BBQ,,,,, FB meal, HB meal,,,
+116,Tumanyan Hotel,12000,0,"Check in: 13:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,, Phone, Bathroom, Dryer,,,,,,, Kitchen,, Garden,,,,,,,,
+117,Jermuk Hotel & SPA,24000,0,"Check in: 00:00
+Check out: 00:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,Teghenis Hotel,25000,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,EcoKayan Dilijan,26200,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,Ararat Resort Tsaghkadzor,32000,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,Tomus Hotel,20000,0,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,Unique Hotel,23000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer,,,,, Refrigerator,, Kitchen,,,,,,,,,,
+123,Lastiver Resort,45000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer,, Fitness,,, Refrigerator,,,,,,,,,,, Pets allowed,
+124,Popock Dilijan 1 Hotel,12500,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom,, Playground,,,,,, Kitchen, Grill/BBQ,,,,, FB meal, HB meal,,,
+125,Adams Hotel,17000,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,, Minibar, Wardrobe, Phone, Bathroom,,,,,, Refrigerator,,,,,,,,,,, Pets allowed,
+126,Kantar Hotel,33000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,,, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+127,Ramada Hotel & Suites by Wyndham Yerevan,40000,4,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,AnnaBella Boutique Hotel,18000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe,, Wardrobe, Phone, Bathroom, Dryer,,,,, Refrigerator,,,, Garden,,,,,,,,
+129,Cherry Hotel,13000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service, Safe,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,, Refrigerator,,,,,,,,,,, Pets allowed,
+130,Yerevan Centre Hotel,17000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,,,,,,,,,,,,,,
+131,Hobby Hotel,19000,0,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,,, Safe, Minibar, Wardrobe, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+132,Grand Hills Hotel,25000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom,,,, Table/Desk,, Refrigerator,,,, Garden,,,,,,,,
+133,Daniel Boutique,18000,3,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,, Air Conditioning,, Cafe,, Restaurant,,,,,,,,,,,,,,,, Safe,,,,,,,,,,,,,,,,,,,,,,
+134,Holiday Inn Express,28000,4,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry,,,,,,,,,, Table/Desk,,,,,,,,,,,,,,
+135,Arthurs Aghveran Resort,27000,4,"Check in: 15:00
+Check out: 14:00",4, TV, Pool, Parking, Wi-Fi,, Air Conditioning, Breakfast,, Jacuzzi,,,,,,,,,,,,,,,,,,,,,,, Playground, Fitness,,,,,,, Garden,,, Kid's room,,,,,
+136,Messier 53 Hotel Yerevan,35000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool,, Wi-Fi, Conference Room,, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,,, Room service, Safe, Minibar,, Phone, Bathroom, Dryer,, Fitness, Table/Desk,,, SPA,,,,,,,,,,,
+137,Apaga Resort,26500,0,"Check in: 14:00
+Check out: 12:00",1,,, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,,,,,,,,,,
+138,Bien Hotel,28000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,, Minibar, Wardrobe, Phone,,,,, Table/Desk,,,,,,,,,,,,,,
+139,Amberd Hotel,34200,4,"Check in: 14:00
+Check out: 12:00",1,, Pool, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,,,,,, Playground,,, Billiards,, SPA,,,, Table tennis,,,,,,,
+140,Golden Palace Hotel Yerevan,106000,5,"Check in: 14:00
+Check out: 12:00",1, TV,, Parking, Wi-Fi, Conference Room,, Breakfast,, Jacuzzi, Restaurant,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,, Fitness, Table/Desk,,, SPA,,,,,,,,,,,
+141,Faria Boutique Hotel,20000,4,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,, Room service,,, Wardrobe, Phone, Bathroom, Dryer,,, Table/Desk,,,, Kitchen,,,,,,,,,,
+142,Multi Rest House,40000,4,"Check in: 14:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,,, Phone, Bathroom, Dryer, Playground, Fitness, Table/Desk,,, SPA,,,, Table tennis,,,,,,,
+143,Tezh Ler Resort,18500,3,"Check in: 14:00
+Check out: 12:00",2, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry,,,,,,,, Playground, Fitness,, Billiards,,,,,, Table tennis,,,,,,,
+144,Best Western Plus Congress,24000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,, Minibar,, Phone,,,, Fitness,,,,,,,,,,,,,,,
+145,Artsakh Hotel,20000,4,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+146,Avant Garde Hotel,30000,4,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,, Room service,,,,,,,,,, Billiards,,,,,,,,,,,,,
+147,Art Hotel,7000,0,"Check in: 13:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,, Minibar,,,,,,,,,,,,,,,,,,,,,
+148,Tsaghkatun Hotel,30000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom,, Playground,, Table/Desk, Billiards,,,,,,,,,,,,,
+149,Armenian Royal Palace Hotel Complex,17000,0,"Check in: 14:00
+Check out: 12:00",1,, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,,,,,,,, Fitness,, Billiards,,,,, Garden,,,,,,,,
+150,Aquatek Resort & SPA,23000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,,, Room service, Safe,,, Phone,, Dryer,, Fitness, Table/Desk,,, SPA,,,,,,,,,,,
+151,Ararat Mother's and Child's Health SPA,13700,3,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Playground, Fitness,,,, SPA,,,,,,,,,,,
+152,Jermuk Ashkharh Sanatorium,25000,5,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking,,,,,,,,,,,,,,,,,,,,, Laundry,,,,,,,, Playground, Fitness,, Billiards,, SPA,,,, Table tennis,, Kid's room,,,,,
+153,Tufenkian Historic Yerevan Hotel,37000,4,"Check in: 15:00
+Check out: 12:00",1, TV, Pool, Parking,, Conference Room, Air Conditioning, Breakfast, Cafe,,,,,,,,,,,,,,,, Laundry, Room service,,,,, Bathroom,,,,,,,,,,,,, Kid's room,,,,,
+154,Kyores Hotel,12000,0,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,ML Hotel,25000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,, Air Conditioning,, Cafe,,,,,,,,,,,,,,,,,,,,, Phone,,,,,,, Refrigerator,,,,,,,,,,,,
+156,Lori Rest Zone,26000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi, Conference Room,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,, Playground, Fitness,,,,,,,, Table tennis,,,,,,,
+157,Best Western Bohemian Resort,22000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry,, Safe,,, Phone,,,,,,, Refrigerator,,,,,,, Kid's room,,,,,
+158,Mayisyan Kamurdj,14000,0,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking,, Conference Room,,,,,,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,,, Table tennis,,,,,,,
+159,Villa Delenda Hotel,25000,3,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,,,, Safe,,, Phone,,,,,,,,,,,,,,,,,,,
+160,Villa 29,25000,0,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry,,,, Wardrobe,, Bathroom,,,,,,,,,,,,,,,,,,
+161,Regineh Hotel,20000,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service, Safe,,, Phone, Bathroom, Dryer,, Fitness, Table/Desk,,, SPA,,,,,,,,,,,
+162,Kecharis Hotel,30000,0,"Check in: 14:00
+Check out: 12:00",2,,, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry,,,,,,,, Playground, Fitness,, Billiards,,,,,,,,,,,,,
+163,Family Hotel,23000,3,"Check in: 12:00
+Check out: 12:00",0,,,, Wi-Fi,, Air Conditioning,,,,,,,,,,,,,,,,,,,,,,,, Bathroom, Dryer,,,,,,,,,,,,,,,,,
+164,Alpine Violet Hotel,13000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool,,,,,,,,,,,,,,,,,,,,,,,,,,,, Bathroom,, Playground,,, Billiards,,,,,, Table tennis,, Kid's room, FB meal,,,,
+165,Amrots Hotel,14000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,, Room service,,,,,,,,,,,,,,,,,,,,,,,
+166,LucyTour Hotel,13000,0,"Check in: 14:00
+Check out: 12:00",1,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,, Playground, Fitness,,,,,,,,,,,,,,,
+167,Vivas Hotel,12000,2,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,, Bathroom,,,,,,,,,, Garden,,,,,,,,
+168,Gladzor Sanatorium,15000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking,,,,,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,,, Table/Desk,,,,,, Garden,,,, FB meal,,,,
+169,Nairi Hotel,14000,4,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking,,,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,,,,,,, Bathroom,, Playground,,,,,,,,,,,,,,,,
+170,Vahagn Resort,19500,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom,, Playground,,,,,,,,, Table tennis,,, FB meal,,,,
+171,Mira Hotel,12000,0,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,, Wardrobe,,,,,,,,,,,,,,,,,,,,
+172,Goris Hotel,15000,4,"Check in: 14:00
+Check out: 12:00",0, TV,,,,,, Breakfast,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+173,Diana Hotel,20000,4,"Check in: 14:00
+Check out: 12:00",0,, Pool,, Wi-Fi, Conference Room,, Breakfast, Cafe,,,,,,,,,,,,,,,,,, Safe,,, Phone, Bathroom,, Playground,, Table/Desk,,,,,,,,,,,,,,
+174,Gyumri Hotel Shirak,17000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+175,Dilijan Park Resort & Villas,21000,0,"Check in: 14:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,, Room service,,,,,,,,,,,,,,,,,,,,,,,
+176,Writers House Hotel,14000,3,"Check in: 13:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi,,,,, Jacuzzi,,,,,,,,,,,,,,,,,,,,,,, Playground, Fitness,,,,,,,,,,,,,,,
+177,SD Hotel,18000,3,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service, Safe,,, Phone,,,,,,,,,,,,,,,,,,,
+178,General Sport Complex,22000,4,"Check in: 14:00
+Check out: 12:00",1,, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning,,,,,,,,,,,,,,,,,,,, Safe,,,,,, Playground, Fitness,, Billiards,,,,,,,, Kid's room, FB meal,,,, Tennis
+179,Alpina Hotel,33000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,, Laundry, Room service, Safe, Minibar, Wardrobe, Phone, Bathroom, Dryer, Playground,, Table/Desk, Billiards, Refrigerator, SPA, Kitchen, Grill/BBQ, Garden, Table tennis, Cottages, Kid's room, FB meal, HB meal,,,
+180,DoubleTree by Hilton,68000,4,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi, Conference Room, Air Conditioning, Breakfast,, Jacuzzi,,,,,,,,,,,,,,,,, Safe,,,, Bathroom,,, Fitness,,,, SPA,,,,,,,,,,,
+181,Hrazdan Hotel,28000,4,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,, Phone, Bathroom,,,,, Billiards,,,,,,,,,,,,,
+182,Multi Grand Hotel,43000,5,"Check in: 14:00
+Check out: 12:00",1,, Pool, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe, Jacuzzi,,,,,,,,,,,,,,,, Room service,,,,, Bathroom,, Playground, Fitness,,,, SPA,,,,,, Kid's room,,,,,
+183,Nare Hotel,22000,3,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi,, Air Conditioning,,,, Restaurant,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,,,, Billiards,,,,,,,,,,,,,
+184,Panorama Resort,31000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom, Dryer,,,,, Refrigerator,, Kitchen,,,,, Kid's room,,,,, Tennis
+185,Park Hotel Artsakh,19600,4,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,,, Breakfast, Cafe,,,,,,,,,,,,,,,, Laundry,,,,,,,,,,,,,,,,,,,,,,,,
+186,Dghyak Pansion,18000,3,"Check in: 13:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,, Room service,,,, Phone,,, Playground,,, Billiards,,,, Grill/BBQ, Garden, Table tennis,,,,,,,
+187,Lalaner Hotel Complex,10000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast, Cafe,,,,,,,,,,,,,,,,,,,,,, Bathroom,,,,,,,,,,,,,,,,,,
+188,Life Hotel,10000,2,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,Tufenkian Old Dilijan Hotel,24000,3,"Check in: 15:00
+Check out: 12:00",1, TV,,, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,,, Room service,,,,, Bathroom,,,,,,,,,,,,, Kid's room,,,,,
+190,Verona Hotel,23000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking,,,,, Cafe,,,,,,,,,,,,,,,, Laundry,,,,,,,, Playground,,,,,,,,,,,,,,,,
+191,Mina Hotel,19000,0,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,, Phone,,,,,,,,,,,,,,,,,,,
+192,Lara Hotel,12000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking,,,,, Cafe,,,,,,,,,,,,,,,, Laundry,,,,,, Bathroom,,,,,, Refrigerator,,,,,,,,,,,,
+193,Laguna Hotel,12000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,, Room service, Safe,,, Phone, Bathroom, Dryer, Playground,,,,,,,,,,,,,,,,
+194,Green House Hotel,8000,0,"Check in: 13:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,, Phone,,, Playground,,,,,,,,,,,,,,,,
+195,Yeghevnut  Hotel,12000,3,"Check in: 14:00
+Check out: 12:00",1,,,, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,Qefilyan  Hotel and Restaurant Complex,15000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry,,,, Wardrobe,,,,,,,, Refrigerator,,,,,,,,,,,,
+197,Vallex Garden Hotel,41900,5,"Check in: 15:00
+Check out: 12:00",3, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,, Minibar,, Phone, Bathroom, Dryer, Playground, Fitness, Table/Desk,,,,,, Garden,,,,,,,, Tennis
+198,Villa Kars Hotel,25000,3,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,,,,,,,,,,,,,,,,,
+199,Tavush Hotel,20000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,, Room service,,,,,,, Playground,,,,,,,,,,,,,,,,
+200,Ariana Family Hotel,20000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,, Laundry, Room service,,,,,,, Playground,,,,,,, Grill/BBQ,,,,, FB meal,,,,
+201,Maria Resort Hotel,80000,0,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi,,,,, Jacuzzi,,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,,, Table tennis,,, FB meal,,,,
+202,Getap Hotel,20000,0,"Check in: 13:00
+Check out: 12:00",0,,,, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,,, Table tennis,,,,,,,
+203,Villa Ayghedzor Hotel,25000,4,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,,, Phone,,,,,,,, SPA,,,,,,,,,,,
+204,Park Village Hotel & Resort,30000,3,"Check in: 13:00
+Check out: 12:00",0, TV,,,,, Air Conditioning,,,,,,,,,,,,,,,,,, Laundry, Room service,,, Wardrobe, Phone, Bathroom,,,,,, Refrigerator, SPA,,,,,,,,,,,
+205,Nairi Rest House,9000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking,,,,,,,,,,,,,,,,,,,,,,,,,,, Bathroom,, Playground,,, Billiards,,,,,, Table tennis,,, FB meal,,,,
+206,Kechi Holiday House,12000,3,"Check in: 14:00
+Check out: 12:00",0,,,,, Conference Room,,,,,,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,,, Table tennis,,, FB meal,,,,
+207,Alva Hotel & SPA,20000,4,"Check in: 14:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi,,, Breakfast,, Jacuzzi, Restaurant,,,,,,,,,,,,,,, Room service, Safe,,,,,, Playground,, Table/Desk, Billiards,,,, Grill/BBQ,, Table tennis,,,,,,,
+208,Cascade Hotel,30000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,, Air Conditioning,, Cafe,,,,,,,,,,,,,,,,,,,,,,,,,,,,, SPA,,,,,,,,,,,
+209,Latar Hotel,75000,5,"Check in: 13:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,,,,,, Table/Desk,,, SPA,,,, Table tennis,,, FB meal,,,, Tennis
+210,Crystal Resort Aghveran,38000,4,"Check in: 14:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi,, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,,,, Safe,,,,,, Playground, Fitness,, Billiards,,,,,, Table tennis,,,,,,,
+211,Arzni N1 Resort,18000,0,"Check in: 10:00
+Check out: 10:00",0,,,,,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,, Playground,,,,, SPA,,,,,,,,,,,
+212,HyeLandz Eco Village Resort,34000,0,"Check in: 15:00
+Check out: 12:00",0,,,,,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,, Garden,,,,,,,,
+213,Park Avenue Hotel,17000,0,"Check in: 13:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, SPA,,,,,,,,,,,
+214,Plaza Viktoria Hotel,20000,0,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi, Conference Room,,,,, Restaurant,,,,,,,,,,,,,,, Room service,,,,,, Dryer,,,,,,,,,,,,,,,,,
+215,Best Western Plus Paradise Hotel,34000,4,"Check in: 14:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi,, Air Conditioning, Breakfast, Cafe,,,,,,,,,,,,,,,, Laundry, Room service, Safe,,,, Bathroom,, Playground, Fitness,,,,,,, Garden,,,,,,,,
+216,Mirhav Hotel,15000,0,"Check in: 14:00
+Check out: 12:00",0, TV,,,,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,Vayk Hotel,12500,0,"Check in: 14:00
+Check out: 12:00",1,,, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,, Phone,,,,,,,,,,,,,,,,,,,
+218,Ani Hotel,20000,3,"Check in: 14:00
+Check out: 12:00",0,,,,,,,,,, Restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, FB meal,,,,
+219,Jermuk Anush Hotel,10000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking,,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, FB meal,,,,
+220,Dian Hotel,15000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking,, Conference Room,, Breakfast,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom,,,,, Billiards,,,,,, Table tennis,,,,,,,
+221,Tufenkian Avan Dzoraget Hotel,34400,4,"Check in: 15:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning,,,,,,,,,,,,,,,,,, Laundry, Room service,,,,,,, Playground, Fitness,,,,,,, Garden,,, Kid's room,,,,,
+222,Jupiter  Hotel,30000,4,"Check in: 14:00
+Check out: 12:00",0,,,,, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,,,,,,,, Billiards,,,,,, Table tennis,,,,,,,
+223,Nairi Hotel,12000,3,"Check in: 14:00
+Check out: 12:00",0,,,,,,, Breakfast,,,,,,,,,,,,,,,,, Laundry,,,,,,,,,,,,,,,,,,,,,,,,
+224,Avetis Hotel,12000,3,"Check in: 14:00
+Check out: 12:00",0,,,,,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+225,Tsovasar Family Rest Complex,32000,0,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,,,, Playground,,, Billiards,,,,,,,, Kid's room,,,,, Tennis
+226,Mimino Guesthouse,14000,0,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi,,, Breakfast, Cafe,,,,,,,,,,,,,,,, Laundry, Room service,,,,,,,,,, Billiards,,,,,, Table tennis,,,,,,,
+227,Gladzor Cottage,25000,0,"Check in: 14:00
+Check out: 12:00",0,, Pool,,,,, Breakfast,,,,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom,, Playground,, Table/Desk,,,,,,,,, Kid's room,,,,,
+228,Diligence Holiday Home,18000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,,,, Playground,,, Billiards,,,, Grill/BBQ, Garden, Table tennis,,,,,,,
+229,Russia Hotel,24500,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning,,,, Restaurant,,,,,,,,,,,,,,,,,,, Phone,,, Playground, Fitness,,,,,,,,,,, FB meal,,,,
+230,Europe Hotel Yerevan,35000,4,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning,,,,,,,,,,,,,,,,,,,,,,, Phone,,,,,,,, SPA,,,,,,,,,,,
+231,Forum Hotel,35000,4,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,, Air Conditioning, Breakfast,,,,,,,,,,,,,,,,,, Room service,,,,, Bathroom,,,,,,, SPA,,,,,,,,,,,
+232,Moscow House Hotel,24000,3,"Check in: 12:00
+Check out: 12:00",0,,, Parking, Wi-Fi, Conference Room, Air Conditioning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, SPA,,,,,,,,,,,
+233,Mge Cavalier,20000,0,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,, Wardrobe, Phone, Bathroom,, Playground,, Table/Desk,, Refrigerator,, Kitchen, Grill/BBQ, Garden, Table tennis,, Kid's room,,,,,
+234,Olympia Garden,30000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking,,, Air Conditioning,, Cafe,,,,,,,,,,,,,,,,,,,, Wardrobe, Phone,, Dryer,,,,,, SPA,,, Garden,,,,,,,,
+235,Bass Boutique Hotel,20000,4,"Check in: 14:00
+Check out: 12:00",0,, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe, Jacuzzi, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,,,,,,, Billiards,, SPA,,, Garden,,,,,,,,
+236,Noy Land Resort,32000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,, Wardrobe, Phone, Bathroom,, Playground,,,, Refrigerator,,, Grill/BBQ,,,,,,,,,
+237,Arpa Hotel,17000,2,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Garden,,,,,,,,
+238,EvMari Guesthouse,10000,0,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+239,Tufenkian Avan Marak Tsapatagh,24000,4,"Check in: 15:00
+Check out: 12:00",0,,,,, Conference Room,, Breakfast,, Jacuzzi, Restaurant,,,,,,,,,,,,,,,,,,,,,,,,, Billiards,,,,,, Table tennis,,,,,,,
+240,Villadzor Apart Hotel,22100,0,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+241,Areg Hotel,18000,3,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,,,,,,,,,,,,,,,,,,, Laundry, Room service,,,, Phone,,,,,,,, SPA,,,,,,, FB meal,,,,
+242,Lori Resort,22000,1,"Check in: 10:00
+Check out: 10:00",0,,, Parking,, Conference Room,,,,,,,,,,,,,,,,,,,,,,,, Phone, Bathroom,, Playground,, Table/Desk, Billiards,,,,, Garden,,,,,,,,
+243,Christy Hotel,12000,0,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,, Wardrobe,, Bathroom,,,,,,,,,,,,,,,,,,
+244,Yerevan Hotel,18000,3,"Check in: 14:00
+Check out: 12:00",0,,,, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,, Playground,,, Billiards,,,,,,,,,,,,,
+245,Berlin Art Hotel,27000,3,"Check in: 14:00
+Check out: 12:00",0,,, Parking,, Conference Room,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+246,Haghartsin Hotel,30000,0,"Check in: 14:00
+Check out: 12:00",3,, Pool, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,,,,,,,,,,,,,,,, Laundry,,,,,,,, Playground, Fitness,,,,,,,,,, Kid's room,,,,,
+247,Dilijan Hotel Resort,25000,4,"Check in: 14:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,, Phone, Bathroom,, Playground, Fitness,, Billiards,, SPA,,,, Table tennis, Cottages, Kid's room,,,,,
+248,Daravand Guesthouse,13000,0,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi,,, Breakfast,,,,,,,,,,,,,,,,,,,,,,,,, Playground,,,,,,,, Garden,,,,,,,,
+249,World of Gold Holiday House,20000,3,"Check in: 14:00
+Check out: 12:00",0, TV, Pool, Parking, Wi-Fi,,,, Cafe,, Restaurant,,,,,,,,,,,,,, Laundry,,,,, Phone, Bathroom,, Playground, Fitness,, Billiards,,,,, Garden, Table tennis,,,,,,,
+250,Tsaghkadzor Marriott Hotel,60000,5,"Check in: 15:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,,,,,,,,, Playground, Fitness,, Billiards,, SPA,,,,,,,,,,, Tennis
+251,Elegant Hotel & Resort,28000,4,"Check in: 14:00
+Check out: 12:00",4,, Pool, Parking, Wi-Fi, Conference Room,, Breakfast,,, Restaurant,,,,,,,,,,,,,,, Room service,,,,,,, Playground, Fitness,, Billiards,,,,,,,,,,,,,
+252,Erebuni Hotel,26000,4,"Check in: 14:00
+Check out: 12:00",0,,, Parking, Wi-Fi, Conference Room, Air Conditioning,,,, Restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,, SPA,,,,,,,,,,,
+253,Imperial Palace Hotel,45000,4,"Check in: 14:00
+Check out: 12:00",0, TV,, Parking, Wi-Fi, Conference Room,,,,, Restaurant,,,,,,,,,,,,,, Laundry, Room service,,,,, Bathroom,, Playground,,,,, SPA,,,,,,, FB meal,,,,
+254,Minotel Barsam Suites Hotel,30000,4,"Check in: 14:00
+Check out: 12:00",0, TV,,, Wi-Fi, Conference Room, Air Conditioning,,,,,,,,,,,,,,,,,, Laundry,,,,, Phone, Bathroom,,,,,,, SPA,,,,,,,,,,,
+255,Park Resort Aghveran,22500,0,"Check in: 14:00
+Check out: 12:00",2, TV,, Parking, Wi-Fi, Conference Room, Air Conditioning,,,, Restaurant,,,,,,,,,,,,,,,,,,,,,, Playground,,, Billiards,,,,, Garden, Table tennis,, Kid's room,,,,,
+256,Paris Hotel,37000,4,"Check in: 14:00
+Check out: 12:00",1, TV,, Parking, Wi-Fi, Conference Room,, Breakfast, Cafe,,,,,,,,,,,,,,,,,,,,,, Bathroom, Dryer,, Fitness, Table/Desk,,, SPA,,,,,,,,,,,
+257,Aliq Hotel,15000,3,"Check in: 14:00
+Check out: 12:00",1, TV, Pool, Parking, Wi-Fi, Conference Room, Air Conditioning, Breakfast, Cafe,, Restaurant,,,,,,,,,,,,,,,,,,,,,, Playground,,, Billiards,,,,,, Table tennis,, Kid's room,,,,,
